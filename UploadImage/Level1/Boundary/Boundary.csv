@@ -1,0 +1,6 @@
+Name,Text,Data,Sizes
+Test 1,Kiem tra viec upload anh cho gia tri binh thuong,nonimal.png,10 MB
+Test 2,Kiem tra viec upload anh cho gia tri can bien trai,minplus.png,1 bytes
+Test 3,Kiem tra viec upload anh cho gia tri bien phai,max.png,256 MB
+Test 4,Kiem tra viec upload anh cho gia tri can bien phai,maxminus.png,255 MB
+Test 5,Kiem tra viec upload anh cho gia tri can bien trai,min.png,0 bytes

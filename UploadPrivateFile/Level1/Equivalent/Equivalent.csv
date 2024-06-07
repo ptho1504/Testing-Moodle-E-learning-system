@@ -1,0 +1,3 @@
+Name,Text,Data,FIleSize
+Test 6,Upload file voi kich thuoc  < 1 Byte,0bytes.txt,0 bytes
+Test 7,Upload file voi kich thuoc 1 Byte - 50 MB,28mb.txt,28 MB
